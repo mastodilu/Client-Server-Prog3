@@ -1,6 +1,12 @@
 # Client-Server-Prog3
 A simple educational example of a client server email program using Java RMI
 
+## What i learnt
+
+- Java RMI
+- Java Swing
+- Movel View Controller pattern
+
 ### Description
 It is composed of 4 projects, one is the server and the other 3 are the clients.
 Each client can send and receive emails from and to another client.
